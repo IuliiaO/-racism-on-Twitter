@@ -4,7 +4,7 @@
 ##   Duke University - Masters of Interdisciplinary Data Science             ##
 ##   IDS 703 - Data Scraping and Text Analysis                               ##
 ##   Instructor: Dr. Chris Bail                                              ##
-##   Team Members: Julia Oblasova, Joe Littell, Emma Sun, Chang Shu          ##
+##   Team Members: Iuliia Oblasova                                           ##
 ##                                                                           ##
 ##   This project is meant to be an alaysis of Tweets containing             ##
 ##   hate speech.                                                            ##
